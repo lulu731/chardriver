@@ -1,0 +1,24 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "files.associations": {
+        "*.js": "javascript",
+        "fs.h": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "exception": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "new": "c",
+        "*.tcc": "c",
+        "cstdint": "c",
+        "typeinfo": "c",
+        "module.h": "c",
+        "cdev.h": "c",
+        "semaphore.h": "c",
+        "string.h": "c"
+    }
+}
